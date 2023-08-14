@@ -30,19 +30,13 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sri Ramachandra Institute of Higher Education and Research
+    url: https://www.sriramachandra.edu.in/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Tech CSE (Ai/ML)
+      institution: Sri Ramachandra Institute of Higher Education and Research
+      year: 2024
 superuser: true
 status:
   icon: ☕️
