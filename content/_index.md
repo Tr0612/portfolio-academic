@@ -152,8 +152,14 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Computer Vision
+          tag: Computer Vision
+        - name: Machine Learning
+          tag: Machine Learning
+        - name: Robotics
+          tag: Robotics
+        - name: Software Development
+          tag: Software
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
