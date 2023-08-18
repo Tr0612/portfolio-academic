@@ -194,7 +194,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
