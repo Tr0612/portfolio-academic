@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Mars Rover
+summary: Fully Built Autonomous Rover
 tags:
   - Deep Learning
   - Computer Vision
