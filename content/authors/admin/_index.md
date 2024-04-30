@@ -1,7 +1,9 @@
 ---
 title: Thanushraam
 role: Final Year B.Tech CSE Student
-bio: My research interests include Computer Vision,Deep Learning and Machine Learning related to Robotics and Autonomous Systems
+avatar_filename: april_photo.jpg
+bio: My research interests include Computer Vision,Deep Learning and Machine
+  Learning related to Robotics and Autonomous Systems
 interests:
   - Artificial Intelligence
   - Deep Learning
@@ -14,9 +16,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: 
   - icon: github
     icon_pack: fab
     link: https://github.com/Tr0612
@@ -40,7 +39,7 @@ status:
 last_name: Sureshkumar
 highlight_name: true
 first_name: Thanushraam
-email: "skthanushraam@gmail.com"
+email: skthanushraam@gmail.com
 ---
 I'm in my final year of studies, pursuing a Bachelor of Technology in Computer Science Engineering. My focus area is Artificial Intelligence and Machine Learning. Autonomous systems and robots, especially self-driving cars, have always captivated me. My prior research revolves around Deep Learning, Computer Vision, and Machine Learning. Currently, I'm dedicated to implementing these skills in robotics. My programming proficiency spans Python and C++, and I'm also in the process of mastering ROS and Gazebo. PyTorch, TensorFlow, and OpenCV are tools I'm well-versed with. I'm enthusiastic about discussing anything related to robotics. Feel free to reach out if you'd like to explore ideas or clarify doubts in this domain.
 {style="text-align: justify;"}
