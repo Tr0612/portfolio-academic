@@ -1,7 +1,7 @@
 ---
 title: Thanushraam
 role: Final Year B.Tech CSE Student
-avatar_filename: https://drive.google.com/file/d/1NArNYu5lMJ5nRQ5c_MMKICqAs4idwXZO/view?usp=drive_link
+avatar_filename: content/authors/admin/april_photo.jpg
 bio: My research interests include Computer Vision,Deep Learning and Machine
   Learning related to Robotics and Autonomous Systems
 interests:
